@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Field Template Util\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+msgid "Custom Field Template Util"
+msgstr "カスタムフィールドテンプレートUtil"
+
+msgid "This is a plug-in to reset export import of 'Custom Field Template'."
+msgstr ""
+"「カスタムフィールドテンプレート」の設定をリセット、エクスポート、インポート"
+"するためのプラグインです。"
+
+msgid "Custom Field Template is not active"
+msgstr "プラグイン：”カスタムフィールドテンプレート” を有効にしてください"
+
+msgid "Options reset failure."
+msgstr "リセットに失敗しました"
+
+msgid ""
+"You can import only file that you exported in 'Custom Field Template Util'."
+msgstr ""
+"「カスタムフィールドテンプレートUtil」でエクスポートしたファイルのみインポー"
+"トすることができます。"
