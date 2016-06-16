@@ -4,9 +4,10 @@
  * Version: 1.0
  * Description: This is a plug-in to reset export import of 'Custom Field Template'.
  * Author: Satoshi Miyagi
- * Plugin URI: 
+ * Plugin URI: https://github.com/smiyagi/custom-field-template-util
  * Text Domain: custom-field-template-util
  * Domain Path: /languages
+ * License: GPLv2 or later
  * @package Custom-field-template-util
  */
 
@@ -31,10 +32,10 @@ class CustomFieldTemplateUtil
 	public function kd_deactivate() {}
 
     protected function define_hooks() {
-    	add_action('plugins_loaded', array(&$this, 'cftu_loaded'));
-    	add_action('init',           array(&$this, 'cftu_init'));
-    	add_action('admin_menu',     array(&$this, 'create_menu'));
-    	add_action('admin_head',     array(&$this, 'custom_admin_css'));
+    	add_action('plugins_loaded', array($this, 'cftu_loaded'));
+    	add_action('init',           array($this, 'cftu_init'));
+    	add_action('admin_menu',     array($this, 'create_menu'));
+    	add_action('admin_head',     array($this, 'custom_admin_css'));
     }
 	
 	public function cftu_loaded() {	

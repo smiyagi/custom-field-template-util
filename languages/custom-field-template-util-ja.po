@@ -14,7 +14,7 @@ msgstr ""
 msgid "Custom Field Template Util"
 msgstr "カスタムフィールドテンプレートUtil"
 
-msgid "This is a plug-in to reset export import of 'Custom Field Template'."
+msgid "This is a plugin to reset export import of 'Custom Field Template'."
 msgstr ""
 "「カスタムフィールドテンプレート」の設定をリセット、エクスポート、インポート"
 "するためのプラグインです。"
